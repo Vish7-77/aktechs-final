@@ -22,7 +22,7 @@ export default function Navbar({ navlinks, handleDrawerToogler }) {
     <AppBar position='fixed' className={classes.navbar}>
       <Toolbar
         className={classes.ToolBar}
-        style={{ backgroundColor: Theme.colors.base1 }}>
+        style={{ backgroundColor:'black' }}>
        
           <img className="ima" src ={iamg} alt="imag"/>
        
